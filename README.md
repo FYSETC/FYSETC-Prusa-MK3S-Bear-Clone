@@ -13,7 +13,7 @@ These print files are suitable for Prusa-MK3S-Bear-Upgrade-v2.0 3D printer. Desi
 3.FaceBook Group:
 <https://www.facebook.com/groups/238970713918171/>
 
-4.Prusa mini assembly tutorial update 2020.9.4
+4.Prusa MK3S bear Upgrade v2.0 assembly tutorial update 2020.9.4  
 The tutorial is very detailed. We also provide a video assembly tutorial. It is more convenient to use the two tutorials together，divided into 6 steps:
 
 https://youtu.be/oRfLwulpcgQ
