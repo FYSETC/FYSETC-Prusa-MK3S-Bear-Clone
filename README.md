@@ -10,10 +10,12 @@ These print files are suitable for Prusa-MK3S-Bear-Upgrade-v2.0 3D printer. Desi
 2.Prusa-MK3S-Bear-Upgrade-v2.0 assembly tutorial  
 <https://www.thingiverse.com/thing:2808408>
 
-3.FaceBook Group:
+3.STL file Thingiverse download：https://www.thingiverse.com/thing:4728835
+
+4.FaceBook Group:
 <https://www.facebook.com/groups/238970713918171/>
 
-4.Prusa MK3S bear Upgrade v2.0 assembly tutorial update 2020.9.4  
+5.Prusa MK3S bear Upgrade v2.0 assembly tutorial update 2020.9.4  
 The tutorial is very detailed. We also provide a video assembly tutorial. It is more convenient to use the two tutorials together，divided into 6 steps:
 
 https://youtu.be/oRfLwulpcgQ
@@ -28,4 +30,4 @@ https://youtu.be/uE6G7Zj1Ka4
 
 https://youtu.be/oQ1uh0wHKKA
 
-5.Go to buy link：https://www.aliexpress.com/item/33018805883.html?spm=2114.12010615.8148356.3.1fbb3a86kKIB86
+6.Go to buy link：https://www.aliexpress.com/item/33018805883.html?spm=2114.12010615.8148356.3.1fbb3a86kKIB86
